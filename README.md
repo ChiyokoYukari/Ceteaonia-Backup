@@ -1,2 +1,3 @@
-# Ceteaonia-WordPressBackup
-Cete的WordPress版内容备份 - 由Httrack生成
+# Ceteaonia-Backup
+
+一些备份文件，包含很多东西（
